@@ -1,1 +1,1 @@
-# hd10-iupui.gtihub.io
+# hd10-iupui.github.io
