@@ -35,8 +35,7 @@ Attention-based graph ranking for unsupervised keyphrase extraction.
 Unsupervised keyphrase extraction using attention mechanisms.  
 *EMNLP, 2021*
 
-### 
-Attention-based unsupervised keyphrase extraction and phrase graph for COVID-19 medical literature retrieval.  
+### Attention-based unsupervised keyphrase extraction and phrase graph for COVID-19 medical literature retrieval.  
 *ACM Transactions on Computing for Healthcare, 2021*
 
 ---
@@ -64,6 +63,6 @@ Attention-based unsupervised keyphrase extraction and phrase graph for COVID-19 
 
 [Download CV](Haoran_Ding_CV.pdf)
 
----
+//---
 
-> Graph-Augmented Language Modeling for Scientific Discovery
+//> Graph-Augmented Language Modeling for Scientific Discovery
