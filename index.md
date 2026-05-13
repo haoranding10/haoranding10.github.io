@@ -63,6 +63,5 @@ Unsupervised keyphrase extraction using attention mechanisms.
 
 [Download CV](Haoran_Ding_CV.pdf)
 
-//---
 
-//> Graph-Augmented Language Modeling for Scientific Discovery
+
